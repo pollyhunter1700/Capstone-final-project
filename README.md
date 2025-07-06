@@ -1,7 +1,3 @@
-# Capstone-final-project
-My Notebook with the code and dataset to test and run the completed project. The project that is here currently has a simulated screenshot set up with the instructions to complete or add a data set for  a future run. 
-Below is the structure:
-
 # 🎮 GameIntel AI – Sentiment and Visual Intelligence for Game Analytics
 
 GameIntel AI is a two-part intelligent system for gaming analytics that analyzes player feedback and classifies gameplay screenshots.
@@ -35,4 +31,3 @@ streamlit run gameintel_dashboard.py
 
 ## 📄 License
 MIT License (or specify).
-
