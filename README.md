@@ -31,3 +31,5 @@ streamlit run gameintel_dashboard.py
 
 ## 📄 License
 MIT License (or specify).
+
+Goodle drive link to the main data set: https://drive.google.com/file/d/1dHfc3rZNfhIjka7LxAMUoJ1rcMijUcfk/view?usp=sharing
